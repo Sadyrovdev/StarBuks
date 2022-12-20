@@ -121,7 +121,7 @@ button{
 .hero-btnl:hover{
     transform: scale(1.1);
     background: #121517;
-    border-radius: 82.834px white;
+    border-radius: 82.834px;
 }
 
 .hero-btnr{
@@ -137,7 +137,7 @@ button{
 .hero-btnr:hover{
     transform: scale(1.1);
     background: #121517;
-    border-radius: 82.834px white;
+    border-radius: 82.834px;
 }
 
 
